@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlOsnVNexuo7MfXRzYKK-gEZNNhJJ4UAq4A&usqp=CAU)](https://rishavchanda.io)
+[![MasterHead]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLlOsnVNexuo7MfXRzYKK-gEZNNhJJ4UAq4A&usqp=CAU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fanalysis&psig=AOvVaw3y-9D_yYsWCe4Z2mE-vWdE&ust=1680748028621000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDdzrvYkf4CFQAAAAAdAAAAABAJ))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Kamal</h1>
 <h3 align="center">A passionate Data analyst from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/005/611/286/original/young-businessman-big-screen-controls-for-data-analysis-statistics-and-business-statements-analytics-dashboard-business-analysis-concept-flat-style-cartoon-illustration-vector.jpg"  >
