@@ -1,4 +1,3 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/front-big-screen-data-analysis-260nw-744407434.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ahmed Kamal</h1>
 <h3 align="center">A passionate Data analyst from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/005/611/286/original/young-businessman-big-screen-controls-for-data-analysis-statistics-and-business-statements-analytics-dashboard-business-analysis-concept-flat-style-cartoon-illustration-vector.jpg"  >
